@@ -1,0 +1,74 @@
+.heading{
+    color: whitesmoke;
+    text-align: center;
+
+    padding: 35%;
+    font-size: 30px;
+    align-self: center;
+    font-family: Impact,AppleGothic,Iowan;
+
+}
+a{
+    text-align: center;
+}
+
+.a{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.pages{
+    height:50%;
+
+    padding: 20px;
+
+
+}
+.c{
+    width:75%;
+    background-color: #dbe6f9;
+
+}
+
+.class{
+    height: 90%;
+    float: right;
+    width:25%;
+    color:black;
+    margin-left:15px;
+    margin-top:19px;
+    padding-right:10px;
+    background: #97b8ed;
+    text-align: left;
+
+
+}
+body{
+    border:black;
+    font-family: AppleGothic,Impact,Iowan;
+    background-color: #c7cfdb;
+    margin:10px;
+    padding:10px;
+
+
+}
+header{
+    background-attachment: scroll;
+
+    fill-opacity: 3;
+    background-color:#aeb5c1;
+
+
+}
+
+nav{
+    padding:20px;
+    color: lavender;
+
+}
+footer{
+    float:bottom;
+    padding: 20px;
+    fill-opacity: 3;
+    background-color:#aeb5c1;
+
+}
